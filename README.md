@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jessik167
 - 👀 I’m interested in python programming, IA, and QA
 - 🌱 I’m currently learning how to make algorithms more efficient
-- 💞️ I’m looking to collaborate on Amazon, Google.
+- 💞️ I’m looking to collaborate on Amazon, Google
 - 📫 How to reach me Jess.urreag@gmail.com
 
 <!---
